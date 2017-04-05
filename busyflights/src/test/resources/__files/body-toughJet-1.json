@@ -1,0 +1,30 @@
+[
+  {
+	"carrier" : "EasyJet",
+	"basePrice" : 182.58,
+	"tax" : 37.359,
+	"discount" : 10,
+	"departureAirportName" : "LHR",
+	"arrivalAirportName" : "AMS",
+	"departureDay" : 1,
+	"departureMonth" : 4,
+	"departureYear" : 2017,
+	"returnDay" : 15,
+	"returnMonth" : 4,
+	"returnYear" : 2017
+  },
+  {
+	"carrier" : "EasyJet",
+	"basePrice" : 182.58,
+	"tax" : 17.178,
+	"discount" : 10,
+	"departureAirportName" : "AMS",
+	"arrivalAirportName" : "LHR",
+	"departureDay" : 15,
+	"departureMonth" : 4,
+	"departureYear" : 2017,
+	"returnDay" : 15,
+	"returnMonth" : 4,
+	"returnYear" : 2017
+  }
+]

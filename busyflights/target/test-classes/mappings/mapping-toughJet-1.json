@@ -1,0 +1,17 @@
+{
+  "id" : "44a8c49d-eaa2-4c03-b4b5-5c69512ecf4c",
+  "request" : {
+    "url" : "/toughJet/search",
+	"method" : "POST"
+  },
+  "response" : {
+    "status" : 200,
+	"bodyFileName" : "body-toughJet-1.json",
+	"headers" : {
+      "Content-Type" : "application/json;charset=UTF-8",
+      "Transfer-Encoding" : "chunked",
+      "Date" : "Wed, 01 Mar 2017 08:04:11 GMT"
+    }
+  },
+  "uuid" : "44a8c49d-eaa2-4c03-b4b5-5c69512ecf4c"
+}

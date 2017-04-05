@@ -1,0 +1,17 @@
+{
+  "id" : "2279f936-a0ab-4b55-b616-2471789cb8b3",
+  "request" : {
+    "url" : "/crazyAir/searchFlights",
+	"method" : "POST"
+  },
+  "response" : {
+    "status" : 200,
+	"bodyFileName" : "body-crazyAir-1.json",
+	"headers" : {
+      "Content-Type" : "application/json;charset=UTF-8",
+      "Transfer-Encoding" : "chunked",
+      "Date" : "Wed, 01 Mar 2017 08:04:11 GMT"
+    }
+  },
+  "uuid" : "2279f936-a0ab-4b55-b616-2471789cb8b3"
+}

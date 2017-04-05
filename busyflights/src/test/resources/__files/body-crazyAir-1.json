@@ -1,0 +1,57 @@
+[
+  {
+	"airline" : "KLM",
+	"price" : 137.248,
+	"cabinclass" : "E",
+	"departureAirportCode" : "LHR",
+	"destinationAirportCode" : "AMS",
+	"departureDate" : "04-01-2017 29:35:00",
+	"arrivalDate" : "04-01-2017 21:25:00"
+  },
+  {
+	"airline" : "KLM",
+	"price" : 150.20,
+	"cabinclass" : "E",
+	"departureAirportCode" : "LHR",
+	"destinationAirportCode" : "AMS",
+	"departureDate" : "04-12-2017 17:35:00",
+	"arrivalDate" : "04-12-2017 17:50:00"
+  },
+  {
+	"airline" : "SAS",
+	"price" : 219.60,
+	"cabinclass" : "E",
+	"departureAirportCode" : "LHR",
+	"destinationAirportCode" : "CPH",
+	"departureDate" : "04-11-2017 06:00:00",
+	"arrivalDate" :  "04-11-2017 09:00:00"
+  },
+  {
+	"airline" : "SAS",
+	"price" : 219.60,
+	"cabinclass" : "E",
+	"departureAirportCode" : "CPH",
+	"destinationAirportCode" : "AMS",
+	"departureDate" :  "04-18-2017 03:00:00",
+	"arrivalDate" :  "04-18-2017 05:00:00"
+  },
+    {
+	"airline" : "SAS",
+	"price" : 219.60,
+	"cabinclass" : "E",
+	"departureAirportCode" : "AMS",
+	"destinationAirportCode" : "CPH",
+	"departureDate" : "04-11-2017 06:00:00",
+	"arrivalDate" :  "04-11-2017 09:00:00"
+  },
+  {
+	"airline" : "SAS",
+	"price" : 219.60,
+	"cabinclass" : "E",
+	"departureAirportCode" : "CPH",
+	"destinationAirportCode" : "LHR",
+	"departureDate" :  "04-18-2017 03:00:00",
+	"arrivalDate" :  "04-18-2017 05:00:00"
+  }
+]
+
